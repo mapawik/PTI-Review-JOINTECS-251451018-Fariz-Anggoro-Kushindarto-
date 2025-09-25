@@ -2,7 +2,7 @@
 
 ## Identitas
 - NIM: 251451018
-- Nama: Fariz ANggoro Kushindarto
+- Nama: Fariz Anggoro Kushindarto
 - Mata Kuliah: Pengantar Teknik Informatika
 
 ## Isi Repo
