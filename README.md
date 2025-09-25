@@ -11,11 +11,11 @@
    daftar-pustaka.md
 
 - summaries/
-  01-ringkasan-Akhriana2023.md
-  02-ringkasan-Nardilasari2023.md
-  03-ringkasan-Sooai2023.md
-  04-ringkasan-Setiawan2023.md
-  05-ringkasan-Sharfina2023.md
+  01-ringkasan-Akhriana2023.pdf
+  02-ringkasan-Nardilasari2023.pdf
+  03-ringkasan-Sooai2023.pdf
+  04-ringkasan-Setiawan2023.pdf
+  05-ringkasan-Sharfina2023.pdf
 
 - .gitignore
 - README.md
